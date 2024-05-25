@@ -26,7 +26,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a full stack developer from <b>Switzerland</b> 」
     <br>
@@ -105,22 +104,24 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvonnied&theme=radical&border=7F3FBF&background=0D1117" alt="lvonnied's GitHub streak"/>
         </a>
     </p>
-
     <p align="center">
         <a href="https://github.com/lvonnied">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvonnied&theme=radical" alt="lvonnied's GitHub Contribution"/>
         </a>
     </p>
-
     <p align="center">
         <a href="https://github.com/lvonnied">
             <img alt="lvonnied's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lvonnied&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/lvonnied">
             <img alt="lvonnied's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lvonnied&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFFFFF"/>
         </a>
     </p>
-
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvonnied&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Lucas Graph"/>
     </p>
 </details>
+
 
